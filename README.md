@@ -3,6 +3,16 @@
 A production-ready full-stack AI Chat Assistant application built with a clean, decoupled **MERN** architecture (**Express + Node.js + MongoDB/Mongoose** backend and **React + Vite + Tailwind CSS** frontend), featuring real-time **Server-Sent Events (SSE)** token streaming, a dynamic **Tone Toggle ("The Vibe Check")**, response **telemetry analytics**, and **server-side Markdown transcript export**.
 
 ---
+## 📸 Screenshots
+
+### 🌙 Dark Mode — Dynamic Starter Cards & Tone Selector
+<img width="958" height="536" alt="image" src="https://github.com/user-attachments/assets/1c3f25aa-478a-4589-b411-85240fca4df6" />
+
+
+### ☀️ Light Mode — Live SSE Streaming, Telemetry & Export
+<img width="953" height="534" alt="image" src="https://github.com/user-attachments/assets/107616c8-5ea3-4de1-9236-8e95ea792139" />
+
+---
 
 ## 🏗️ Architecture & Philosophy
 
