@@ -1,0 +1,22 @@
+{
+  "name": "ai-chat-assistant-server",
+  "version": "1.0.0",
+  "description": "Production-ready AI Chat Assistant Server with Express, Mongoose, and SSE streaming",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.1",
+    "openai": "^4.85.4"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^10.1.4"
+  }
+}
+
